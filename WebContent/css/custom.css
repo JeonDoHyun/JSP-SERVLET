@@ -1,0 +1,16 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Nanum+Pen+Script&display=swap');
+
+.navbar-brand, h1, h2, h3, h4 {
+	font-family: 'jeju Gothic';
+}
+
+h5 {
+	font-family: 'Black Han Sans', sans-serif;
+	font-size : 20px;
+}
+
+body {
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 20px;
+}
